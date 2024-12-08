@@ -21,13 +21,13 @@
 - Refactored outdated code to improve maintainability and scalability.  
 - Collaborated with stakeholders to implement requested updates and bug fixes.
 
-
 ### 🌟 GitHub Stats:
-![Danial Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Danial Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanialHakim22&show_icons=true&theme=radical)
 
 ### 🏆 Contribution Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanialHakim22&theme=radical)
 
 ### 📊 Language Usage:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanialHakim22&layout=compact&theme=radical)
+
 
