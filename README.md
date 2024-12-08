@@ -10,5 +10,10 @@
 
 ## 📚 Continuous Learning  
 - Passionate about expanding technical knowledge and staying updated with the latest industry trends.  
-- Continuously exploring new tools, technologies, and methodologies to improve coding practices and project outcomes.  
+- Continuously exploring new tools, technologies, and methodologies to improve coding practices and project outcomes.
+
+## 🖥️ **Legacy Codebase Maintenance**  
+- Responsible for maintaining and updating legacy systems to ensure reliability and performance.  
+- Refactored outdated code to improve maintainability and scalability.  
+- Collaborated with stakeholders to implement requested updates and bug fixes.  
 
