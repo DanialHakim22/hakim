@@ -15,5 +15,17 @@
 ## 🖥️ **Legacy Codebase Maintenance**  
 - Responsible for maintaining and updating legacy systems to ensure reliability and performance.  
 - Refactored outdated code to improve maintainability and scalability.  
-- Collaborated with stakeholders to implement requested updates and bug fixes.  
+- Collaborated with stakeholders to implement requested updates and bug fixes.
+
+
+# 👋 Hello, I'm Danial Hakim!
+
+### 🌟 GitHub Stats:
+![Danial Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 🏆 Contribution Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+### 📊 Language Usage:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
