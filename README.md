@@ -1,3 +1,7 @@
+
+# 👋 Hello, I'm Danial Hakim!
+
+
 # 🌐 Website Developer  
 
 ## 🚀 Project Involvement  
@@ -17,8 +21,6 @@
 - Refactored outdated code to improve maintainability and scalability.  
 - Collaborated with stakeholders to implement requested updates and bug fixes.
 
-
-# 👋 Hello, I'm Danial Hakim!
 
 ### 🌟 GitHub Stats:
 ![Danial Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
